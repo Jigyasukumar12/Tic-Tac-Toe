@@ -143,3 +143,5 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 _Last Updated: [ 27/12/2025]_
 _Version: 1.0.0_
+
+NEXT TARGET : adding backend to this project to make it look attractive
